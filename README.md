@@ -1,5 +1,9 @@
 # 📧 Email Domain Validator
 
+
+![banner](img_comp.png)
+
+
 Validate email domains in an Excel file by checking DNS MX records.
 
 If a domain has a valid mail server:
